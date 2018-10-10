@@ -1,0 +1,2 @@
+pip install chardet 自动获取网页编码
+pip install beautifulsoup4
