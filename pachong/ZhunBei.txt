@@ -1,2 +1,6 @@
-pip install chardet 自动获取网页编码
-pip install beautifulsoup4
+pip install     chardet 自动获取网页编码
+pip install     beautifulsoup4 网页源码解析器
+pip install     lxml 解析xml
+
+pip install     pyinstaller
+pyinstaller     --version  pyinstaller -F test.py
